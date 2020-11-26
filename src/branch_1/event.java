@@ -41,7 +41,9 @@ public class ClientWindow extends JFrame implements ActionListener, TCPConnectio
 	
 	public static void main (String[] args) {
 		
-		double a = 3, b = 4, c. ter = 4;
+		double a = 3;
+		int b = 4, c;
+		int ter = 4;
 		c = Math.sqrt (a* a + b* b);
 		System.out.println ("c = "+ c);
 		System.out.println ("c = "+ ter);
