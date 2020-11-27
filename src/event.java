@@ -39,6 +39,8 @@ public class ClientWindow extends JFrame implements ActionListener, TCPConnectio
         }
     }
 	
+	private int 2;
+	
 	public static void main (String[] args[]) {
 		
 		double a = 38;
