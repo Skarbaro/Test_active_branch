@@ -38,4 +38,6 @@ public class ClientWindow extends JFrame implements ActionListener, TCPConnectio
             printMag("Connection exception: " + e);
         }
     }
+	
+	private int er;
 }
